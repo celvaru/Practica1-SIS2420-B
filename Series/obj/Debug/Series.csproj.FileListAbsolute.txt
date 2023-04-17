@@ -1,0 +1,8 @@
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\bin\Debug\Series.exe.config
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\bin\Debug\Series.exe
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\bin\Debug\Series.pdb
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\obj\Debug\Series.csproj.SuggestedBindingRedirects.cache
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\obj\Debug\Series.exe
+E:\Celeste\Universidad\Actualizacion Tecnologica\Series\obj\Debug\Series.pdb
